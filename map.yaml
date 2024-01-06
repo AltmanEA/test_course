@@ -3,21 +3,21 @@ themes:
     title: "Первый раздел"
     slides:
       - url: "10_a"
-        title: "Раз"
-        slide: 7
+        title: "1Раз"
+        slide: 6
         quiz: 1
       - url: "20_b"
-        title: "Два"
-        slide: 17
+        title: "1Два"
+        slide: 6
         quiz: 1
   - url: "20_second"
     title: "Второй раздел"
     slides:
       - url: "10_a"
-        title: "Раз"
-        slide: 7
+        title: "2Раз"
+        slide: 6
         quiz: 1
       - url: "20_b"
-        title: "Два"
-        slide: 17
+        title: "2Два"
+        slide: 6
         quiz: 1
